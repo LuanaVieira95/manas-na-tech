@@ -8,7 +8,7 @@ Se você curtir, compartilhe com seus amigues e deixa uma star para fortalecer �
  ## 👩‍💻Iniciativas para mulheres
  
  [Programaria](https://www.programaria.org/) <br>
- [Elas Programam](https://www.programaria.org/) <br>
+ [Elas Programam](https://elasprogramam.com.br/#/) <br>
  [Womakerscode](https://womakerscode.org/) <br>
  [Reprograma](https://reprograma.com.br/) <br>
  
