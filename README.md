@@ -34,6 +34,7 @@ Se você curtir, compartilhe com seus amigues e deixa uma star para fortalecer �
  
  ## 📝 Cursos Gratuitos
  
+ [A FIAP Liberou 20 Cursos com duração entre 40 e 160 horas, todos gratuitos!](https://on.fiap.com.br/local/movimentobrasildigital/) <br>
  [CC50 - O cusro de Ciência da Computação de Harvard, no Brasil](https://cc50.estudarfora.org.br/) <br>
  [Digital Inovation One](https://digitalinnovation.one/) <br>
  [Curso em Vídeo](https://www.cursoemvideo.com/) <br>
@@ -42,6 +43,7 @@ Se você curtir, compartilhe com seus amigues e deixa uma star para fortalecer �
  [FreeCodeCamp](https://www.freecodecamp.org/) <br>
  [Khan Academy](https://pt.khanacademy.org/) <br>
  
+
  #
  
  ## 🐱 Para deixar seu Github personalizado
