@@ -11,6 +11,7 @@ Se você curtir, compartilhe com seus amigues e deixa uma star para fortalecer �
  [Elas Programam](https://elasprogramam.com.br/#/) <br>
  [Womakerscode](https://womakerscode.org/) <br>
  [Reprograma](https://reprograma.com.br/) <br>
+ [Vanhack, Women in Tech Hiring Fair April 2022](https://vanhack.com/candidates/events/women-in-tech-hiring-fair-April-2022?utm_source=ActiveCampaign&utm_medium=email&utm_content=pode+entrar%2C+sinta-se+em+casa&utm_campaign=Filipe+Deschamps+Referral+_+2) <br>
  
  
  ## 🗺️ [Roadmap](https://roadmap.sh/)
