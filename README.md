@@ -11,7 +11,7 @@ Se você curtir, compartilhe com seus amigues e deixa uma star para fortalecer �
 Programas para formação de devs GRATUITOS e que estão com inscrições ABERTAS no momento, não exigem conhecimento prévio e valorizam a diversidade e inclusão na área de tecnologia!
  
 1. Minas Programam 2022: https://lnkd.in/deJDCERH
-2. Programa <Dev>ª: https://lnkd.in/dNm9AiGj
+2. Programa Devª: https://lnkd.in/dNm9AiGj
 3. START by Capgemini: https://lnkd.in/dT6QJPVN
 4. Eu Progr{amo}: https://lnkd.in/dnctG_pN
 5. Santander Code Girls: https://lnkd.in/dHnEtebj
